@@ -29,6 +29,9 @@ Users should be able to:
 
 ### Screenshot
 
+![image](https://user-images.githubusercontent.com/77628684/123518767-b1893400-d6d1-11eb-9fdc-147b7f0645d1.png)
+![image](https://user-images.githubusercontent.com/77628684/123518782-bcdc5f80-d6d1-11eb-963e-90dd310a126d.png)
+
 
 
 ### Links
@@ -47,19 +50,17 @@ Users should be able to:
 
 I learn css positioning (relative and absolute) to position the button at the right place. using margin and padding would make the button go outside the div element during resizing the screen due to the text-width getting smaller so the text-line is increased.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+
 
 ### Continued development
 
 I will try to continue other beginner project first then get slowly get to higher level project.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
 - [w3school CSS positioninng](https://www.w3schools.com/css/css_positioning.asp) - This helped me for positioning button.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
